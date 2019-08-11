@@ -1,0 +1,101 @@
+Förslag:
+Försvara object
+-slumpvis start vid O
+-kan flytta O
+   men om man dör går O sönder
+   längsam
+   kan inte skjuta
+-spawnas vid O
+
+-om sin O är förstörd=svag (creep)
+-om man förstör annans O:
+   låser upp nästa vapen?
+   blir starkare?
+   Långsamare?
+   Större?
+-förstöra O genom att skjuta 
+  eller stå nära en stund
+-få nya vapen genom att hitta och
+  lämna lådor till sin O
+-råna från andra O, stå nära=få
+  den spelares vapen 
+
+gameplay
+-försvara objekt
+-ta p-generator
+-D v G
+
+Fler än 2 lag
+
+open-FPS-RTS:
+-spawner är main
+  -tar emot "supplies"
+  -tar ut "bygg-kit"
+
+-Byggnader:
+  -Spawner:här hämtas ritningar
+  -"weapon assembler":vapen hämtas
+  -"transport assembler":fordon hämtas
+  -"defense assembler":ger ritningar för defensiva byggnader
+     -låser upp: Turret ass.: 3 turetter
+       -låser upp: Tower ass.: utkickstorn,radartorn,???
+  -"radar antenn":ger synfält i hand-radar
+
+-Byggandet
+  -Spawners 4 sidor (4 hus) visar om man kan ta ut ritning
+  -Högerklickar, tar upp låda, kan placeras ut på jämn mark
+  -?hus bör inte poppa upp direkt?
+  -?flera delar måste hämtas från spawner itaget och placeras?
+
+-Antennsystem
+  -Alla hus kopplas sammans med antenner från spawner(skicka supplies)
+  -när hus byggs, beräknas höjd för att inte krocka med terräng
+   denna höjd är antennens höjd, lina drags mellan antenner
+
+-Weapon Assembler
+  -A.Lämmna supplies,få vapen
+  -B.Lämmna Supplies,startar konstant prod. av valt vapen
+  -?permanent eller förloras vid död?
+  -Möjlighet att bli rånad
+  -Pistol(gratis),Uzi,Sniper,RocketLauncher
+
+-Transport Assembler
+  -pris betalas, delar monteras manuellt, tar tid
+  -Snabb transport:
+  -Defensiv attackfordon:Tank
+  -Flygande transport:Heli,kan lyfta fordon mm
+
+-Defense Assembler (Tools)
+  -ger ritningar liknande spawner
+  -tillverkar verktyg liknande weapon assembler
+  -Tools:hand-radar
+  -Turreter:Chaingun,rocketlauncher,laser,AA?
+  -minor
+  -murar,utkickstorn?
+  -missilramp
+  -Radartorn här isf i spawner
+  -teleport (rörsystem)
+  -Expanderas:
+    -Första raden:Handradar,mur,minor
+    -andra raden: Turreter(chain,missil,AA?)
+    -tredje raden:Torn(utkick,radar)
+    -fjärde raden:raketramp
+
+-Radar antenn
+  -ger minimapp i handradar
+  -kan hackas, fiender använder samma radar, syns bara på plats
+
+-Barbarer/Savages AI
+  -grupp har gemensam spawner, spawnas efter viss tid till maxantal
+  -rör sig i område runt spawner
+  -efter viss tid kan en lämmna grupp för att bilda ny spawner/grupp
+  -sammlar på något (supplies?)
+  -maxantal växer A.över tid, B.om mer supplies sammlats
+  -belöning för att ta ut deras spawner (värdefull supplylåda?)
+  -går mest omkring och tittar, vissa agressiva, andra defensiva
+  -om inkräktare, aggresiva anfaller, defensiva flyr
+
+
+
+
+  

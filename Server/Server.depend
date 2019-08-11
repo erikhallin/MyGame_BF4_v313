@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1332068376 source:c:\erikprogram\mygame - new\server\servermain.cpp
+	<cstdlib>
+	<iostream>
+	<windows.h>
+	<WinSock2.h>
+	<ctime>
+	<math.h>
+

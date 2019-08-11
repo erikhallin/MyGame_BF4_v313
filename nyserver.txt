@@ -1,0 +1,15 @@
+FÖR ATT FUNKA ONLINE:
+Server/client async recv/send
+
+Server får första msg (innehåller client ID) från client
+-om okänd klient (konstigt) gör inget
+-innehåller info om...
+
+-----------------
+
+FÖR ATT TILLÅTA rand()?
+Server gör beräkningar
+Clienter skickar information om position och handlingar tex skjuta, hoppa, plocka upp
+
+Server beräknar om skott träffar
+-Server måste ha info om alla objekt,terräng

@@ -1,0 +1,68 @@
+Nu:
+FUNKTIONER:
+int m_carryType
+temp nametag (i HUD)
+radarantenn till spawner
+md2 modeller updateras separat. alt bara en model
+turretter skjuter bara om dom kan se target
+Heli vinklar sig i sidled
+visa HP för fordon
+transparent flashscreen när man skjuter
+getBBlock type får inte vara 0=error
+pows släpps nära spawners runt spelare?
+ eller spawnas på nya chunks?
+Testserver om offline eller test,q,har lådor
+
+BUGGAR:
+Ljudbugg, spelare0 hör spelare1
+heli ljud blir konstigt...?
+tanklutning
+lämmna in fylld bbox
+dubbelt pow exploit
+vissa dör (rand?)
+  vid utsättning av bblock kunde ena men inte andra
+    hade samma vector (krockade med olika?)
+BBlock placerades i BBlock
+visa hus i radar är segt
+glapp visning mellan chunks
+seg visninga av radar pga hus...
+negativ pos = skrivs utanför array
+
+
+Långsiktigt:
+
+Splashscreen (texture)
+-Test (bara SP)
+-join game->lobby
+-Instructionsscreen
+-(credits)
+-exit
+
+LJUDFEL
+NPCs
+server broadcasting (UDP)-bok
+ändra tex beroende på HP
+köpa armour
+bomb med heli (powerup)
+heal animation
+highLight block
+fallskada?
+Förbättra FC (flaskhalsen)
+-testa när rätt träffas, accepta dom som e brevid
+
+
+Kreativt:
+unika drag för Units,se skillnad
+unika drag för Spawner,se skillnad
+ljud för allt
+Terrain texture
+
+BBlocks texture
+OP model
+inHands objectmodell??
+turretljud, spinup/ner
+rök
+
+konvertera map till heightmap karta?
+
+

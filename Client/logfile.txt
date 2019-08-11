@@ -1,0 +1,2 @@
+00001 - 2019-8-11 19:53:15: CLOCKS_PER_SEC for current CPU: 1000
+00002 - 2019-8-11 19:53:15: Game started

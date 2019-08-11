@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="beam.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="457" topLine="21" />
+	</File>
+	<File name="buildblock.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="731" topLine="0" />
+	</File>
+	<File name="buildblock.h" open="0" top="0" tabpos="8">
+		<Cursor position="455" topLine="0" />
+	</File>
+	<File name="buildbox.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="1435" topLine="5" />
+	</File>
+	<File name="buildbox.h" open="0" top="0" tabpos="6">
+		<Cursor position="474" topLine="0" />
+	</File>
+	<File name="building.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="1223" topLine="0" />
+	</File>
+	<File name="building.h" open="0" top="0" tabpos="0">
+		<Cursor position="422" topLine="0" />
+	</File>
+	<File name="chunk.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="3596" topLine="0" />
+	</File>
+	<File name="chunk.h" open="0" top="0" tabpos="5">
+		<Cursor position="671" topLine="0" />
+	</File>
+	<File name="explosion.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="7866" topLine="78" />
+	</File>
+	<File name="heli.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="939" topLine="0" />
+	</File>
+	<File name="heli.h" open="0" top="0" tabpos="3">
+		<Cursor position="481" topLine="0" />
+	</File>
+	<File name="imageloader.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="3388" topLine="59" />
+	</File>
+	<File name="imageloader.h" open="0" top="0" tabpos="0">
+		<Cursor position="1225" topLine="20" />
+	</File>
+	<File name="logfile.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="265" topLine="0" />
+	</File>
+	<File name="logfile.h" open="0" top="0" tabpos="14">
+		<Cursor position="677" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="8">
+		<Cursor position="186173" topLine="645" />
+	</File>
+	<File name="md2model.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="15100" topLine="0" />
+	</File>
+	<File name="md2model.h" open="0" top="0" tabpos="0">
+		<Cursor position="2412" topLine="21" />
+	</File>
+	<File name="mine.cpp" open="0" top="0" tabpos="12">
+		<Cursor position="199" topLine="0" />
+	</File>
+	<File name="mine.h" open="0" top="0" tabpos="13">
+		<Cursor position="63" topLine="0" />
+	</File>
+	<File name="outpost.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="387" topLine="0" />
+	</File>
+	<File name="outpost.h" open="0" top="0" tabpos="9">
+		<Cursor position="326" topLine="0" />
+	</File>
+	<File name="perlinnoise.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="1087" topLine="0" />
+	</File>
+	<File name="perlinnoise.h" open="0" top="0" tabpos="9">
+		<Cursor position="204" topLine="0" />
+	</File>
+	<File name="powerup.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="490" topLine="0" />
+	</File>
+	<File name="powerup.h" open="0" top="0" tabpos="5">
+		<Cursor position="440" topLine="0" />
+	</File>
+	<File name="projectile.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="1051" topLine="0" />
+	</File>
+	<File name="projectile.h" open="0" top="0" tabpos="0">
+		<Cursor position="136" topLine="0" />
+	</File>
+	<File name="radar.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="8226" topLine="0" />
+	</File>
+	<File name="radar.h" open="0" top="0" tabpos="6">
+		<Cursor position="198" topLine="0" />
+	</File>
+	<File name="resource.h" open="0" top="0" tabpos="0">
+		<Cursor position="210" topLine="0" />
+	</File>
+	<File name="resource.rc" open="0" top="0" tabpos="0">
+		<Cursor position="211" topLine="0" />
+	</File>
+	<File name="ridgemultifrac.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="327" topLine="0" />
+	</File>
+	<File name="ridgemultifrac.h" open="0" top="0" tabpos="0">
+		<Cursor position="135" topLine="0" />
+	</File>
+	<File name="sound.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="3938" topLine="17" />
+	</File>
+	<File name="spawner.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="150" topLine="0" />
+	</File>
+	<File name="spawner.h" open="0" top="0" tabpos="3">
+		<Cursor position="635" topLine="0" />
+	</File>
+	<File name="speed.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="514" topLine="0" />
+	</File>
+	<File name="speed.h" open="0" top="0" tabpos="5">
+		<Cursor position="369" topLine="0" />
+	</File>
+	<File name="tank.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="633" topLine="0" />
+	</File>
+	<File name="tank.h" open="0" top="0" tabpos="7">
+		<Cursor position="725" topLine="0" />
+	</File>
+	<File name="turret.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="1741" topLine="0" />
+	</File>
+	<File name="turret.h" open="0" top="0" tabpos="11">
+		<Cursor position="643" topLine="0" />
+	</File>
+	<File name="unit.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="1498" topLine="115" />
+	</File>
+	<File name="unit.h" open="0" top="0" tabpos="3">
+		<Cursor position="513" topLine="0" />
+	</File>
+	<File name="vec3f.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="2953" topLine="22" />
+	</File>
+	<File name="world.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="512" topLine="0" />
+	</File>
+	<File name="world.h" open="1" top="0" tabpos="10">
+		<Cursor position="2057" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

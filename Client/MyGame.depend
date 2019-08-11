@@ -1,0 +1,953 @@
+# depslib dependency file v1.0
+1328733336 source:c:\erikprogram\codeblocktranslate\mygame\beam.cpp
+	"beam.h"
+	<gl\gl.h>
+
+1328561870 c:\erikprogram\codeblocktranslate\mygame\beam.h
+
+1329667924 source:c:\erikprogram\codeblocktranslate\mygame\buildblock.cpp
+	<gl\gl.h>
+	"buildblock.h"
+
+1329667892 c:\erikprogram\codeblocktranslate\mygame\buildblock.h
+
+1329667924 source:c:\erikprogram\codeblocktranslate\mygame\buildbox.cpp
+	<gl\gl.h>
+	"buildbox.h"
+
+1329667892 c:\erikprogram\codeblocktranslate\mygame\buildbox.h
+
+1329668968 source:c:\erikprogram\codeblocktranslate\mygame\building.cpp
+	<gl\gl.h>
+	"building.h"
+
+1329668968 c:\erikprogram\codeblocktranslate\mygame\building.h
+
+1329852038 source:c:\erikprogram\codeblocktranslate\mygame\explosion.cpp
+	<gl\gl.h>
+	<stdlib.h>
+	<math.h>
+	"explosion.h"
+
+1329851714 c:\erikprogram\codeblocktranslate\mygame\explosion.h
+
+1329075156 source:c:\erikprogram\codeblocktranslate\mygame\heli.cpp
+	"heli.h"
+	<gl\gl.h>
+
+1328814818 c:\erikprogram\codeblocktranslate\mygame\heli.h
+
+1325245752 source:c:\erikprogram\codeblocktranslate\mygame\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1325245752 c:\erikprogram\codeblocktranslate\mygame\imageloader.h
+
+1329856457 source:c:\erikprogram\codeblocktranslate\mygame\main.cpp
+	<windows.h>
+	<gl\gl.h>
+	<gl\glu.h>
+	<math.h>
+	<ctime>
+	<iostream>
+	<fstream>
+	<WinSock2.h>
+	"nummer.h"
+	"text.h"
+	"unit.h"
+	"projectile.h"
+	"explosion.h"
+	"sound.h"
+	"spawner.h"
+	"powerup.h"
+	"turret.h"
+	"mine.h"
+	"imageloader.h"
+	"resource.h"
+	"buildbox.h"
+	"buildblock.h"
+	"building.h"
+	"wall.h"
+	"heli.h"
+	"speed.h"
+	"tank.h"
+	"beam.h"
+
+1329851286 c:\erikprogram\codeblocktranslate\mygame\nummer.h
+	<gl\gl.h>
+	<math.h>
+
+1324555032 c:\erikprogram\codeblocktranslate\mygame\text.h
+
+1329851472 c:\erikprogram\codeblocktranslate\mygame\unit.h
+
+1329162610 c:\erikprogram\codeblocktranslate\mygame\projectile.h
+
+1328820722 c:\erikprogram\codeblocktranslate\mygame\sound.h
+	<cstdlib>
+	<iostream>
+	<windows.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1329564804 c:\erikprogram\codeblocktranslate\mygame\spawner.h
+
+1329675800 c:\erikprogram\codeblocktranslate\mygame\powerup.h
+
+1328555380 c:\erikprogram\codeblocktranslate\mygame\turret.h
+
+1325328274 c:\erikprogram\codeblocktranslate\mygame\mine.h
+
+1325340074 c:\erikprogram\codeblocktranslate\mygame\resource.h
+
+1326745486 c:\erikprogram\codeblocktranslate\mygame\wall.h
+
+1328820946 c:\erikprogram\codeblocktranslate\mygame\speed.h
+
+1328733916 c:\erikprogram\codeblocktranslate\mygame\tank.h
+
+1325328738 source:c:\erikprogram\codeblocktranslate\mygame\mine.cpp
+	"mine.h"
+	<gl\gl.h>
+
+1329675952 source:c:\erikprogram\codeblocktranslate\mygame\powerup.cpp
+	"powerup.h"
+	<gl\gl.h>
+
+1329670610 source:c:\erikprogram\codeblocktranslate\mygame\projectile.cpp
+	<gl\gl.h>
+	<math.h>
+	"projectile.h"
+
+1329856504 source:c:\erikprogram\codeblocktranslate\mygame\sound.cpp
+	<stdio.h>
+	"sound.h"
+
+1329564804 source:c:\erikprogram\codeblocktranslate\mygame\spawner.cpp
+	"spawner.h"
+	<gl\gl.h>
+
+1329075156 source:c:\erikprogram\codeblocktranslate\mygame\speed.cpp
+	"speed.h"
+	<gl\gl.h>
+
+1329851472 source:c:\erikprogram\codeblocktranslate\mygame\unit.cpp
+	<gl\gl.h>
+	<gl\glu.h>
+	<math.h>
+	"unit.h"
+
+1329068992 source:c:\erikprogram\codeblocktranslate\mygame\wall.cpp
+	<gl\gl.h>
+	"wall.h"
+
+1328733336 source:c:\erikprogram\mygame - 246 codeblocks\client\beam.cpp
+	"beam.h"
+	<gl\gl.h>
+
+1328561870 c:\erikprogram\mygame - 246 codeblocks\client\beam.h
+
+1329667924 source:c:\erikprogram\mygame - 246 codeblocks\client\buildblock.cpp
+	<gl\gl.h>
+	"buildblock.h"
+
+1329667892 c:\erikprogram\mygame - 246 codeblocks\client\buildblock.h
+
+1329667924 source:c:\erikprogram\mygame - 246 codeblocks\client\buildbox.cpp
+	<gl\gl.h>
+	"buildbox.h"
+
+1329667892 c:\erikprogram\mygame - 246 codeblocks\client\buildbox.h
+
+1329668968 source:c:\erikprogram\mygame - 246 codeblocks\client\building.cpp
+	<gl\gl.h>
+	"building.h"
+
+1329668968 c:\erikprogram\mygame - 246 codeblocks\client\building.h
+
+1329852038 source:c:\erikprogram\mygame - 246 codeblocks\client\explosion.cpp
+	<gl\gl.h>
+	<stdlib.h>
+	<math.h>
+	"explosion.h"
+
+1329851714 c:\erikprogram\mygame - 246 codeblocks\client\explosion.h
+
+1329075156 source:c:\erikprogram\mygame - 246 codeblocks\client\heli.cpp
+	"heli.h"
+	<gl\gl.h>
+
+1328814818 c:\erikprogram\mygame - 246 codeblocks\client\heli.h
+
+1325245752 source:c:\erikprogram\mygame - 246 codeblocks\client\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1325245752 c:\erikprogram\mygame - 246 codeblocks\client\imageloader.h
+
+1329857273 source:c:\erikprogram\mygame - 246 codeblocks\client\main.cpp
+	<windows.h>
+	<gl\gl.h>
+	<gl\glu.h>
+	<math.h>
+	<ctime>
+	<iostream>
+	<fstream>
+	<WinSock2.h>
+	"nummer.h"
+	"text.h"
+	"unit.h"
+	"projectile.h"
+	"explosion.h"
+	"sound.h"
+	"spawner.h"
+	"powerup.h"
+	"turret.h"
+	"mine.h"
+	"imageloader.h"
+	"resource.h"
+	"buildbox.h"
+	"buildblock.h"
+	"building.h"
+	"wall.h"
+	"heli.h"
+	"speed.h"
+	"tank.h"
+	"beam.h"
+
+1329851286 c:\erikprogram\mygame - 246 codeblocks\client\nummer.h
+	<gl\gl.h>
+	<math.h>
+
+1324555032 c:\erikprogram\mygame - 246 codeblocks\client\text.h
+
+1329851472 c:\erikprogram\mygame - 246 codeblocks\client\unit.h
+
+1329162610 c:\erikprogram\mygame - 246 codeblocks\client\projectile.h
+
+1328820722 c:\erikprogram\mygame - 246 codeblocks\client\sound.h
+	<cstdlib>
+	<iostream>
+	<windows.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1329564804 c:\erikprogram\mygame - 246 codeblocks\client\spawner.h
+
+1329675800 c:\erikprogram\mygame - 246 codeblocks\client\powerup.h
+
+1328555380 c:\erikprogram\mygame - 246 codeblocks\client\turret.h
+
+1325328274 c:\erikprogram\mygame - 246 codeblocks\client\mine.h
+
+1325340074 c:\erikprogram\mygame - 246 codeblocks\client\resource.h
+
+1326745486 c:\erikprogram\mygame - 246 codeblocks\client\wall.h
+
+1328820946 c:\erikprogram\mygame - 246 codeblocks\client\speed.h
+
+1328733916 c:\erikprogram\mygame - 246 codeblocks\client\tank.h
+
+1329857273 source:c:\erikprogram\mygame - 246 codeblocks\client\mine.cpp
+	"mine.h"
+	<gl\gl.h>
+
+1329857273 source:c:\erikprogram\mygame - 246 codeblocks\client\powerup.cpp
+	"powerup.h"
+	<gl\gl.h>
+
+1329670610 source:c:\erikprogram\mygame - 246 codeblocks\client\projectile.cpp
+	<gl\gl.h>
+	<math.h>
+	"projectile.h"
+
+1329856504 source:c:\erikprogram\mygame - 246 codeblocks\client\sound.cpp
+	<stdio.h>
+	"sound.h"
+
+1329564804 source:c:\erikprogram\mygame - 246 codeblocks\client\spawner.cpp
+	"spawner.h"
+	<gl\gl.h>
+
+1329075156 source:c:\erikprogram\mygame - 246 codeblocks\client\speed.cpp
+	"speed.h"
+	<gl\gl.h>
+
+1329857273 source:c:\erikprogram\mygame - 246 codeblocks\client\tank.cpp
+	"tank.h"
+	<gl\gl.h>
+
+1329857273 source:c:\erikprogram\mygame - 246 codeblocks\client\turret.cpp
+	"turret.h"
+	<gl\gl.h>
+	<math.h>
+
+1329851472 source:c:\erikprogram\mygame - 246 codeblocks\client\unit.cpp
+	<gl\gl.h>
+	<gl\glu.h>
+	<math.h>
+	"unit.h"
+
+1329068992 source:c:\erikprogram\mygame - 246 codeblocks\client\wall.cpp
+	<gl\gl.h>
+	"wall.h"
+
+1328736936 source:c:\erikprogram\mygame - new\client\beam.cpp
+	"beam.h"
+	<gl\gl.h>
+
+1328565470 c:\erikprogram\mygame - new\client\beam.h
+
+1335107984 source:c:\erikprogram\mygame - new\client\buildblock.cpp
+	<gl\gl.h>
+	"buildblock.h"
+
+1335107984 c:\erikprogram\mygame - new\client\buildblock.h
+
+1335107919 source:c:\erikprogram\mygame - new\client\buildbox.cpp
+	<gl\gl.h>
+	"buildbox.h"
+
+1335107919 c:\erikprogram\mygame - new\client\buildbox.h
+
+1331382638 source:c:\erikprogram\mygame - new\client\building.cpp
+	<gl\gl.h>
+	"building.h"
+
+1329672568 c:\erikprogram\mygame - new\client\building.h
+
+1332097567 source:c:\erikprogram\mygame - new\client\explosion.cpp
+	<gl\gl.h>
+	<stdlib.h>
+	<math.h>
+	"explosion.h"
+
+1329855314 c:\erikprogram\mygame - new\client\explosion.h
+
+1335108400 source:c:\erikprogram\mygame - new\client\heli.cpp
+	"heli.h"
+	<gl\gl.h>
+
+1335108400 c:\erikprogram\mygame - new\client\heli.h
+
+1325249352 source:c:\erikprogram\mygame - new\client\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1325249352 c:\erikprogram\mygame - new\client\imageloader.h
+
+1335107731 source:c:\erikprogram\mygame - new\client\mine.cpp
+	"mine.h"
+	<gl\gl.h>
+
+1335107731 c:\erikprogram\mygame - new\client\mine.h
+
+1335096058 source:c:\erikprogram\mygame - new\client\powerup.cpp
+	"powerup.h"
+	<gl\gl.h>
+
+1335096058 c:\erikprogram\mygame - new\client\powerup.h
+
+1333974905 source:c:\erikprogram\mygame - new\client\projectile.cpp
+	<gl\gl.h>
+	<math.h>
+	"projectile.h"
+
+1329166210 c:\erikprogram\mygame - new\client\projectile.h
+
+1329860104 source:c:\erikprogram\mygame - new\client\sound.cpp
+	<stdio.h>
+	"sound.h"
+
+1328824322 c:\erikprogram\mygame - new\client\sound.h
+	<cstdlib>
+	<iostream>
+	<windows.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1335639702 source:c:\erikprogram\mygame - new\client\spawner.cpp
+	"spawner.h"
+	<gl\gl.h>
+
+1335095908 c:\erikprogram\mygame - new\client\spawner.h
+
+1335108518 source:c:\erikprogram\mygame - new\client\speed.cpp
+	"speed.h"
+	<gl\gl.h>
+
+1335108518 c:\erikprogram\mygame - new\client\speed.h
+
+1335108621 source:c:\erikprogram\mygame - new\client\tank.cpp
+	"tank.h"
+	<gl\gl.h>
+
+1335108621 c:\erikprogram\mygame - new\client\tank.h
+
+1335107583 source:c:\erikprogram\mygame - new\client\turret.cpp
+	"turret.h"
+	<gl\gl.h>
+	<math.h>
+
+1335107583 c:\erikprogram\mygame - new\client\turret.h
+
+1332694595 source:c:\erikprogram\mygame - new\client\unit.cpp
+	<gl\gl.h>
+	<gl\glu.h>
+	<math.h>
+	"unit.h"
+
+1330621229 c:\erikprogram\mygame - new\client\unit.h
+
+1329072592 source:c:\erikprogram\mygame - new\client\wall.cpp
+	<gl\gl.h>
+	"wall.h"
+
+1326749086 c:\erikprogram\mygame - new\client\wall.h
+
+1335639702 source:c:\erikprogram\mygame - new\client\main.cpp
+	<windows.h>
+	<gl\gl.h>
+	<gl\glu.h>
+	<math.h>
+	<ctime>
+	<WinSock2.h>
+	<vector>
+	"nummer.h"
+	"text.h"
+	"unit.h"
+	"projectile.h"
+	"explosion.h"
+	"sound.h"
+	"spawner.h"
+	"powerup.h"
+	"turret.h"
+	"mine.h"
+	"imageloader.h"
+	"resource.h"
+	"buildbox.h"
+	"buildblock.h"
+	"building.h"
+	"wall.h"
+	"heli.h"
+	"speed.h"
+	"tank.h"
+	"beam.h"
+	"md2model.h"
+	"logfile.h"
+	"radar.h"
+	"outpost.h"
+	"world.h"
+
+1329854886 c:\erikprogram\mygame - new\client\nummer.h
+	<gl\gl.h>
+	<math.h>
+
+1324558632 c:\erikprogram\mygame - new\client\text.h
+
+1325343674 c:\erikprogram\mygame - new\client\resource.h
+
+1329944155 c:\erikprogram\mygame - new\client\md2model.h
+	<gl\gl.h>
+	<gl\glu.h>
+	"vec3f.h"
+
+1219410390 c:\erikprogram\mygame - new\client\vec3f.h
+	<iostream>
+
+1330778531 source:c:\erikprogram\mygame - new\client\md2model.cpp
+	<fstream>
+	<stdio.h>
+	<string.h>
+	"imageloader.h"
+	"md2model.h"
+
+1219410390 source:c:\erikprogram\mygame - new\client\vec3f.cpp
+	<math.h>
+	"vec3f.h"
+
+1332673240 source:c:\erikprogram\mygame - new\client\logfile.cpp
+	"logfile.h"
+	<iostream>
+	<ctime>
+	<string>
+
+1332069094 c:\erikprogram\mygame - new\client\logfile.h
+	<fstream>
+	<string>
+
+1331464422 source:c:\erikprogram\mygame - new\client\radar.cpp
+	"radar.h"
+	"md2model.h"
+	<gl\gl.h>
+
+1331490184 c:\erikprogram\mygame - new\client\radar.h
+	"md2model.h"
+
+1330269683 source:c:\erikprogram\mygame - new\client\resource.rc
+	"resource.h"
+
+1335107126 source:c:\erikprogram\mygame - new\client\outpost.cpp
+	<gl\gl.h>
+	"outpost.h"
+
+1335107126 c:\erikprogram\mygame - new\client\outpost.h
+
+1334772025 source:c:\erikprogram\mygame - new\client\chunk.cpp
+	"chunk.h"
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<string>
+	<vector>
+	<iostream>
+
+1334772054 c:\erikprogram\mygame - new\client\chunk.h
+	"perlinnoise.h"
+
+1335372909 c:\erikprogram\mygame - new\client\world.h
+	"chunk.h"
+	"perlinnoise.h"
+	<vector>
+
+1335386011 source:c:\erikprogram\mygame - new\client\world.cpp
+	"world.h"
+	"perlinnoise.h"
+	"vec3f.h"
+	<gl\gl.h>
+	<vector>
+	<math.h>
+	<stdlib.h>
+	<iostream>
+
+1118173764 source:c:\erikprogram\mygame - new\client\noiseutils.cpp
+	<fstream>
+	<noise/interp.h>
+	<noise/mathconsts.h>
+	"noiseutils.h"
+
+1118173602 c:\erikprogram\mygame - new\client\noiseutils.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<noise/noise.h>
+
+1103756668 c:\libnoise\include\noise\noise.h
+	"module/module.h"
+	"model/model.h"
+	"misc.h"
+
+1103670316 c:\libnoise\include\noise\module\module.h
+	"add.h"
+	"abs.h"
+	"billow.h"
+	"blend.h"
+	"cache.h"
+	"checkerboard.h"
+	"clamp.h"
+	"const.h"
+	"curve.h"
+	"cylinders.h"
+	"displace.h"
+	"exponent.h"
+	"invert.h"
+	"max.h"
+	"min.h"
+	"multiply.h"
+	"perlin.h"
+	"power.h"
+	"ridgedmulti.h"
+	"rotatepoint.h"
+	"scalebias.h"
+	"scalepoint.h"
+	"select.h"
+	"spheres.h"
+	"terrace.h"
+	"translatepoint.h"
+	"turbulence.h"
+	"voronoi.h"
+
+1103735918 c:\libnoise\include\noise\module\add.h
+	"modulebase.h"
+
+1157043394 c:\libnoise\include\noise\module\modulebase.h
+	<stdlib.h>
+	<assert.h>
+	<math.h>
+	"../basictypes.h"
+	"../exception.h"
+	"../noisegen.h"
+
+1103670442 c:\libnoise\include\noise\basictypes.h
+
+1104173836 c:\libnoise\include\noise\exception.h
+
+1103670470 c:\libnoise\include\noise\noisegen.h
+	<math.h>
+	"basictypes.h"
+
+1103733936 c:\libnoise\include\noise\module\abs.h
+	"modulebase.h"
+
+1104171702 c:\libnoise\include\noise\module\billow.h
+	"modulebase.h"
+
+1104171722 c:\libnoise\include\noise\module\blend.h
+	"modulebase.h"
+
+1103733954 c:\libnoise\include\noise\module\cache.h
+	"modulebase.h"
+
+1103670254 c:\libnoise\include\noise\module\checkerboard.h
+	"modulebase.h"
+
+1104171742 c:\libnoise\include\noise\module\clamp.h
+	"modulebase.h"
+
+1103670266 c:\libnoise\include\noise\module\const.h
+	"modulebase.h"
+
+1104171766 c:\libnoise\include\noise\module\curve.h
+	"modulebase.h"
+
+1103670282 c:\libnoise\include\noise\module\cylinders.h
+	"modulebase.h"
+
+1104171796 c:\libnoise\include\noise\module\displace.h
+	"modulebase.h"
+
+1103756408 c:\libnoise\include\noise\module\exponent.h
+	"modulebase.h"
+
+1103740168 c:\libnoise\include\noise\module\invert.h
+	"modulebase.h"
+
+1103735732 c:\libnoise\include\noise\module\max.h
+	"modulebase.h"
+
+1103735742 c:\libnoise\include\noise\module\min.h
+	"modulebase.h"
+
+1103735934 c:\libnoise\include\noise\module\multiply.h
+	"modulebase.h"
+
+1104171830 c:\libnoise\include\noise\module\perlin.h
+	"modulebase.h"
+
+1103740154 c:\libnoise\include\noise\module\power.h
+	"modulebase.h"
+
+1104171842 c:\libnoise\include\noise\module\ridgedmulti.h
+	"modulebase.h"
+
+1103740134 c:\libnoise\include\noise\module\rotatepoint.h
+	"modulebase.h"
+
+1103741018 c:\libnoise\include\noise\module\scalebias.h
+	"modulebase.h"
+
+1103742324 c:\libnoise\include\noise\module\scalepoint.h
+	"modulebase.h"
+
+1104172712 c:\libnoise\include\noise\module\select.h
+	"modulebase.h"
+
+1103670586 c:\libnoise\include\noise\module\spheres.h
+	"modulebase.h"
+
+1104171910 c:\libnoise\include\noise\module\terrace.h
+	"modulebase.h"
+
+1103747362 c:\libnoise\include\noise\module\translatepoint.h
+	"modulebase.h"
+
+1103756144 c:\libnoise\include\noise\module\turbulence.h
+	"perlin.h"
+
+1103755566 c:\libnoise\include\noise\module\voronoi.h
+	"modulebase.h"
+
+1103670620 c:\libnoise\include\noise\model\model.h
+	"cylinder.h"
+	"line.h"
+	"plane.h"
+	"sphere.h"
+
+1103820858 c:\libnoise\include\noise\model\cylinder.h
+	<assert.h>
+	<math.h>
+	<stdlib.h>
+	"../module/modulebase.h"
+
+1103821418 c:\libnoise\include\noise\model\line.h
+	<assert.h>
+	<math.h>
+	<stdlib.h>
+	"../module/modulebase.h"
+
+1103820848 c:\libnoise\include\noise\model\plane.h
+	<assert.h>
+	"../module/modulebase.h"
+
+1103820830 c:\libnoise\include\noise\model\sphere.h
+	<assert.h>
+	"../module/modulebase.h"
+
+1103670460 c:\libnoise\include\noise\misc.h
+
+1335000775 source:c:\erikprogram\mygame - new\client\perlinnoise.cpp
+	"perlinnoise.h"
+
+1335000775 c:\erikprogram\mygame - new\client\perlinnoise.h
+	"ridgemultifrac.h"
+
+1334507877 source:c:\erikprogram\mygame - new\client\ridgemultifrac.cpp
+	"ridgemultifrac.h"
+	<math.h>
+
+1333910274 c:\erikprogram\mygame - new\client\ridgemultifrac.h
+
+1328736936 source:c:\cpp\mygame - 313 new\client\beam.cpp
+	"beam.h"
+	<gl\gl.h>
+
+1328565470 c:\cpp\mygame - 313 new\client\beam.h
+
+1335107984 source:c:\cpp\mygame - 313 new\client\buildblock.cpp
+	<gl\gl.h>
+	"buildblock.h"
+
+1335107984 c:\cpp\mygame - 313 new\client\buildblock.h
+
+1335107919 source:c:\cpp\mygame - 313 new\client\buildbox.cpp
+	<gl\gl.h>
+	"buildbox.h"
+
+1335107919 c:\cpp\mygame - 313 new\client\buildbox.h
+
+1331382638 source:c:\cpp\mygame - 313 new\client\building.cpp
+	<gl\gl.h>
+	"building.h"
+
+1329672568 c:\cpp\mygame - 313 new\client\building.h
+
+1334772025 source:c:\cpp\mygame - 313 new\client\chunk.cpp
+	"chunk.h"
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<string>
+	<vector>
+	<iostream>
+
+1334772054 c:\cpp\mygame - 313 new\client\chunk.h
+	"perlinnoise.h"
+
+1335000775 c:\cpp\mygame - 313 new\client\perlinnoise.h
+	"ridgemultifrac.h"
+
+1333910274 c:\cpp\mygame - 313 new\client\ridgemultifrac.h
+
+1332097567 source:c:\cpp\mygame - 313 new\client\explosion.cpp
+	<gl\gl.h>
+	<stdlib.h>
+	<math.h>
+	"explosion.h"
+
+1329855314 c:\cpp\mygame - 313 new\client\explosion.h
+
+1335108400 source:c:\cpp\mygame - 313 new\client\heli.cpp
+	"heli.h"
+	<gl\gl.h>
+
+1335108400 c:\cpp\mygame - 313 new\client\heli.h
+
+1325249352 source:c:\cpp\mygame - 313 new\client\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1325249352 c:\cpp\mygame - 313 new\client\imageloader.h
+
+1332673240 source:c:\cpp\mygame - 313 new\client\logfile.cpp
+	"logfile.h"
+	<iostream>
+	<ctime>
+	<string>
+
+1332069094 c:\cpp\mygame - 313 new\client\logfile.h
+	<fstream>
+	<string>
+
+1335639702 source:c:\cpp\mygame - 313 new\client\main.cpp
+	<windows.h>
+	<gl\gl.h>
+	<gl\glu.h>
+	<math.h>
+	<ctime>
+	<WinSock2.h>
+	<vector>
+	"nummer.h"
+	"text.h"
+	"unit.h"
+	"projectile.h"
+	"explosion.h"
+	"sound.h"
+	"spawner.h"
+	"powerup.h"
+	"turret.h"
+	"mine.h"
+	"imageloader.h"
+	"resource.h"
+	"buildbox.h"
+	"buildblock.h"
+	"building.h"
+	"wall.h"
+	"heli.h"
+	"speed.h"
+	"tank.h"
+	"beam.h"
+	"md2model.h"
+	"logfile.h"
+	"radar.h"
+	"outpost.h"
+	"world.h"
+
+1329854886 c:\cpp\mygame - 313 new\client\nummer.h
+	<gl\gl.h>
+	<math.h>
+
+1324558632 c:\cpp\mygame - 313 new\client\text.h
+
+1330621229 c:\cpp\mygame - 313 new\client\unit.h
+
+1329166210 c:\cpp\mygame - 313 new\client\projectile.h
+
+1328824322 c:\cpp\mygame - 313 new\client\sound.h
+	<cstdlib>
+	<iostream>
+	<windows.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1335095908 c:\cpp\mygame - 313 new\client\spawner.h
+
+1335096058 c:\cpp\mygame - 313 new\client\powerup.h
+
+1335107583 c:\cpp\mygame - 313 new\client\turret.h
+
+1335107731 c:\cpp\mygame - 313 new\client\mine.h
+
+1325343674 c:\cpp\mygame - 313 new\client\resource.h
+
+1326749086 c:\cpp\mygame - 313 new\client\wall.h
+
+1335108518 c:\cpp\mygame - 313 new\client\speed.h
+
+1335108621 c:\cpp\mygame - 313 new\client\tank.h
+
+1329944155 c:\cpp\mygame - 313 new\client\md2model.h
+	<gl\gl.h>
+	<gl\glu.h>
+	"vec3f.h"
+
+1219410390 c:\cpp\mygame - 313 new\client\vec3f.h
+	<iostream>
+
+1331490184 c:\cpp\mygame - 313 new\client\radar.h
+	"md2model.h"
+
+1335107126 c:\cpp\mygame - 313 new\client\outpost.h
+
+1335372909 c:\cpp\mygame - 313 new\client\world.h
+	"chunk.h"
+	"perlinnoise.h"
+	<vector>
+
+1330778531 source:c:\cpp\mygame - 313 new\client\md2model.cpp
+	<fstream>
+	<stdio.h>
+	<string.h>
+	"imageloader.h"
+	"md2model.h"
+
+1335107731 source:c:\cpp\mygame - 313 new\client\mine.cpp
+	"mine.h"
+	<gl\gl.h>
+
+1335107126 source:c:\cpp\mygame - 313 new\client\outpost.cpp
+	<gl\gl.h>
+	"outpost.h"
+
+1335000775 source:c:\cpp\mygame - 313 new\client\perlinnoise.cpp
+	"perlinnoise.h"
+
+1335096058 source:c:\cpp\mygame - 313 new\client\powerup.cpp
+	"powerup.h"
+	<gl\gl.h>
+
+1333974905 source:c:\cpp\mygame - 313 new\client\projectile.cpp
+	<gl\gl.h>
+	<math.h>
+	"projectile.h"
+
+1331464422 source:c:\cpp\mygame - 313 new\client\radar.cpp
+	"radar.h"
+	"md2model.h"
+	<gl\gl.h>
+
+1330269683 source:c:\cpp\mygame - 313 new\client\resource.rc
+	"resource.h"
+
+1334507877 source:c:\cpp\mygame - 313 new\client\ridgemultifrac.cpp
+	"ridgemultifrac.h"
+	<math.h>
+
+1329860104 source:c:\cpp\mygame - 313 new\client\sound.cpp
+	<stdio.h>
+	"sound.h"
+
+1335639702 source:c:\cpp\mygame - 313 new\client\spawner.cpp
+	"spawner.h"
+	<gl\gl.h>
+
+1335108518 source:c:\cpp\mygame - 313 new\client\speed.cpp
+	"speed.h"
+	<gl\gl.h>
+
+1335108621 source:c:\cpp\mygame - 313 new\client\tank.cpp
+	"tank.h"
+	<gl\gl.h>
+
+1335107583 source:c:\cpp\mygame - 313 new\client\turret.cpp
+	"turret.h"
+	<gl\gl.h>
+	<math.h>
+
+1332694595 source:c:\cpp\mygame - 313 new\client\unit.cpp
+	<gl\gl.h>
+	<gl\glu.h>
+	<math.h>
+	"unit.h"
+
+1219410390 source:c:\cpp\mygame - 313 new\client\vec3f.cpp
+	<math.h>
+	"vec3f.h"
+
+1329072592 source:c:\cpp\mygame - 313 new\client\wall.cpp
+	<gl\gl.h>
+	"wall.h"
+
+1335386011 source:c:\cpp\mygame - 313 new\client\world.cpp
+	"world.h"
+	"perlinnoise.h"
+	"vec3f.h"
+	<gl\gl.h>
+	<vector>
+	<math.h>
+	<stdlib.h>
+	<iostream>
+

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MyGame" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="Debug" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\OpenAL32.lib" />
+					<Add library="..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\libws2_32.a" />
+					<Add library="..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\libglu32.a" />
+					<Add library="..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\libglut.a" />
+					<Add library="..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\libglut32.a" />
+					<Add library="..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\libnoise.lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="MyGame" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Linker>
+					<Add library="..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\OpenAL32.lib" />
+					<Add library="..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\libws2_32.a" />
+					<Add library="..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\libglu32.a" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="..\..\..\Program Files (x86)\CodeBlocks\MinGW\include\noise" />
+		</Compiler>
+		<Linker>
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="gdi32" />
+			<Add directory="..\..\..\Program Files (x86)\CodeBlocks\MinGW\include\noise" />
+		</Linker>
+		<Unit filename="beam.cpp" />
+		<Unit filename="beam.h" />
+		<Unit filename="buildblock.cpp" />
+		<Unit filename="buildblock.h" />
+		<Unit filename="buildbox.cpp" />
+		<Unit filename="buildbox.h" />
+		<Unit filename="building.cpp" />
+		<Unit filename="building.h" />
+		<Unit filename="chunk.cpp" />
+		<Unit filename="chunk.h" />
+		<Unit filename="explosion.cpp" />
+		<Unit filename="explosion.h" />
+		<Unit filename="heli.cpp" />
+		<Unit filename="heli.h" />
+		<Unit filename="imageloader.cpp" />
+		<Unit filename="imageloader.h" />
+		<Unit filename="logfile.cpp" />
+		<Unit filename="logfile.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="md2model.cpp" />
+		<Unit filename="md2model.h" />
+		<Unit filename="mine.cpp" />
+		<Unit filename="mine.h" />
+		<Unit filename="nummer.h" />
+		<Unit filename="outpost.cpp" />
+		<Unit filename="outpost.h" />
+		<Unit filename="perlinnoise.cpp" />
+		<Unit filename="perlinnoise.h" />
+		<Unit filename="powerup.cpp" />
+		<Unit filename="powerup.h" />
+		<Unit filename="projectile.cpp" />
+		<Unit filename="projectile.h" />
+		<Unit filename="radar.cpp" />
+		<Unit filename="radar.h" />
+		<Unit filename="resource.h" />
+		<Unit filename="resource.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="ridgemultifrac.cpp" />
+		<Unit filename="ridgemultifrac.h" />
+		<Unit filename="sound.cpp" />
+		<Unit filename="sound.h" />
+		<Unit filename="spawner.cpp" />
+		<Unit filename="spawner.h" />
+		<Unit filename="speed.cpp" />
+		<Unit filename="speed.h" />
+		<Unit filename="tank.cpp" />
+		<Unit filename="tank.h" />
+		<Unit filename="text.h" />
+		<Unit filename="turret.cpp" />
+		<Unit filename="turret.h" />
+		<Unit filename="unit.cpp" />
+		<Unit filename="unit.h" />
+		<Unit filename="vec3f.cpp" />
+		<Unit filename="vec3f.h" />
+		<Unit filename="wall.cpp" />
+		<Unit filename="wall.h" />
+		<Unit filename="world.cpp" />
+		<Unit filename="world.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
